@@ -1,0 +1,91 @@
+body {
+  background-color: #eeeeee;
+  color: #0f141e;
+
+  font-size: 16px;
+  font-weight: normal;
+  font-family: 'Roboto', sans-serif;
+  margin: 0 150px 0 150px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.avatar {
+  width: 235px;
+  border-radius: 20px;
+}
+
+.header__info {
+  display: flex;
+  padding: 20px;
+}
+
+.header__info_text {
+  margin-left: 15px;
+}
+
+.header {
+  background: rgb(221, 220, 220);
+  border-radius: 10px;
+}
+
+.myTargets {
+  padding: 20px;
+  background: rgb(235, 235, 235);
+}
+
+.workTime {
+  background: rgb(221, 220, 220);
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.myCourse {
+  padding: 20px;
+  background: rgb(235, 235, 235);
+}
+
+.myCourse__center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contacts {
+  background: rgb(221, 220, 220);
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.tableCourse {
+  text-align: center;
+}
+
+.tableCourse th {
+  border-bottom: 1px solid #111;
+  padding: 10px;
+}
+
+.tableCourse td {
+  padding: 5px;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.socialwapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.socialwapper div {
+  padding: 10px;
+}
